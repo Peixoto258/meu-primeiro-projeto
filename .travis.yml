@@ -7,4 +7,4 @@ jdk:
 before_install:
   - chmod +x mvnw
 install:
-  - mvnw install
+  - mvn clean
